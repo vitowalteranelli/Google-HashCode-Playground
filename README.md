@@ -1,7 +1,7 @@
 # Google HashCode PlayGround
 
-This project allows to evaluate your submissions for past editions of Google HashCode. 
-This is a work in progress, so far I fully implemented the scoring systems of:
+This project let you to evaluate your submission files for the past editions of Google HashCode. 
+This is a work in progress, so far I fully implemented the following scoring systems:
 - 2017 Final round
 - 2017 Qualification round
 - 2016 Final round
