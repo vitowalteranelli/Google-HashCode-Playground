@@ -37,7 +37,7 @@ def checkArea(rowNumber,colNumber,row,col):
             maxCol = max([colNumber, col])
             for nrow in range(minRow,maxRow):
                 for ncol in range(minCol,maxCol):
-                    if (Grid[row][col] == '#'):
+                    if (Grid[nrow][ncol] == '#'):
                         value = False
             return value
 
